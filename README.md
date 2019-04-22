@@ -1,2 +1,6 @@
-# MachineLearning-
-Contains my custom implementation of various machine learning models and analysis.
+# Machine Learning Models
+- Implementation of various models.
+- Analysis and Visualisation of Dataset.
+- Preprocessing of dataset.
+- Recommender System and Matrix Factorization.
+
